@@ -30,3 +30,13 @@
   - read
   - write
   - contexts
+
+
+- data visualization (matplotlib)
+- Numpy/Scipy module and numerical applications
+    - function interpolation and approximation
+    - numerical optimization
+    - numerical integration
+    - solution of differential equations
+
+Any suggestions from the attendees are warmly welcome as the course is intended to be as interactive as possible.
