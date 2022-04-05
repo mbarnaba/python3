@@ -1,2 +1,24 @@
-# python3
-Python3: from zero to useful applications
+# Python3: from zero to useful applications
+
+- introduction to computer programming (how to talk to computers) 
+- variables 
+- conditions (if, else, elif) 
+- errors (raise, try, catch)
+- loops (while, for) 
+- functions (def and lambda)
+- modules (import)
+- object oriented programming 
+  - classes and objects
+  - Python data model
+  - inheritance 
+  - polymorphism 
+  - abstraction 
+- collections
+  - lists 
+  - tuples 
+  - dictionaries 
+  - sets 
+- input-output 
+  - read
+  - write
+  - contexts
