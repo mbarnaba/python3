@@ -1,5 +1,13 @@
 # Python3: from zero to useful applications
 
+### Matteo Barnaba, scientific software developer specialized in HPC.
+#### matteo.barnaba@exact-lab.it 
+
+![exact](.imgs/exact.png)
+
+
+## Contents
+
 - introduction to computer programming (how to talk to computers) 
 - variables 
 - conditions (if, else, elif) 
