@@ -1,12 +1,10 @@
 # Python3: from zero to useful applications
 
-### Matteo Barnaba, PhD
-### scientific software developer specialized in HPC.
-### matteo.barnaba@exact-lab.it 
+Matteo Barnaba, PhD </br>
+scientific software developer specialized in HPC </br>
+matteo.barnaba@exact-lab.it 
 
-![exact](.imgs/exact.png)
-
-#### [materials for the course](https://github.com/mbarnaba/python3)
+[materials for the course](https://github.com/mbarnaba/python3)
 
 
 ## Contents
@@ -73,4 +71,4 @@ for the course and my idea would be to expand it together.
 In case you do not like Google, there are other solutions for running 
 [jupyter](https://jupyter.org) notebooks in your browser, 
 e.g., [alternatives](https://www.dataschool.io/cloud-services-for-jupyter-notebook). 
-I did test them, so do not ask me in case something is not right with them, sorry ;)
+I did not test them, do not ask me in case something is not right with them ... sorry ;)
