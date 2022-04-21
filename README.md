@@ -1,8 +1,13 @@
 # Python3: from zero to useful applications
 
-Matteo Barnaba, PhD </br>
-scientific software developer specialized in HPC </br>
+Matteo Barnaba, PhD \
+scientific software developer specialized in HPC \
 matteo.barnaba@exact-lab.it 
+
+<a href="https://www.exact-lab.it">
+<img src="https://github.com/mbarnaba/python3/blob/main/.imgs/exact.png" 
+class="attachment-full size-full" alt="" loading="lazy" >								
+</a> 
 
 [materials for the course](https://github.com/mbarnaba/python3)
 
